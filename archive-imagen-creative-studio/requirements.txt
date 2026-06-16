@@ -1,4 +1,4 @@
-mesop>=0.9.3
+mesop>=1.2.5
 Flask
 gunicorn
 Werkzeug
