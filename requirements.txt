@@ -11,7 +11,7 @@ anyio==4.10.0
     #   starlette
 asttokens==3.0.0
     # via stack-data
-black==25.9.0
+black==26.10.1
     # via veo-app (pyproject.toml)
 blinker==1.9.0
     # via flask
@@ -19,7 +19,7 @@ cachecontrol==0.14.3
     # via firebase-admin
 cachetools==5.5.2
     # via google-auth
-certifi==2025.8.3
+certifi==2026.10.19
     # via
     #   httpcore
     #   httpx
@@ -235,7 +235,7 @@ numpy==2.3.3
     #   tifffile
 opencv-python==4.11.0.86
     # via veo-app (pyproject.toml)
-opentelemetry-api==1.37.0
+opentelemetry-api==1.45.1
     # via google-cloud-logging
 ordered-set==4.1.0
     # via deepdiff
@@ -257,7 +257,7 @@ pathspec==0.12.1
     # via black
 pexpect==4.9.0
     # via ipython
-pillow==11.3.0
+pillow==13.0.0
     # via
     #   imageio
     #   matplotlib
@@ -321,7 +321,7 @@ pygments==2.19.2
     #   ipython
     #   ipython-pygments-lexers
     #   pytest
-pyjwt==2.10.1
+pyjwt==2.15.0
     # via firebase-admin
 pyparsing==3.2.5
     # via
